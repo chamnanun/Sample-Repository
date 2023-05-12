@@ -1,2 +1,1 @@
-# Sample-Repository
-Sample Repository 
+# FinTech Repository
